@@ -76,7 +76,7 @@ To get debugging, run the command below in a [debug terminal](https://code.visua
 Run the following commands to set up the project:
 
 ```bash
-npm install
+
 npm start
 ```
 

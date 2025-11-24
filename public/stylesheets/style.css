@@ -6,3 +6,14 @@ body {
 a {
   color: #00B7FF;
 }
+
+h1 {
+  text-shadow: 2px 2px 5px turquoise;
+}
+h2 {
+  text-shadow: 2px 2px 5px purple;
+}
+button {
+  background-color:azure;
+  font: bold;
+}
